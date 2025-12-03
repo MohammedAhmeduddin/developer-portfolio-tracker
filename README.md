@@ -1,4 +1,11 @@
-🚀 Developer Portfolio Tracker
+
+# Developer Portfolio Tracker
+
+🚀 **Live Production URL:**  
+https://developer-portfolio-tracker.vercel.app
+
+This is a fully responsive, authentication-enabled developer portfolio management dashboard built using **React, TypeScript, Vite, Recharts, and modern UI principles**.  
+The application features protected routes, developer analytics, data visualization, CRUD operations, and a dark/light mode system — deployed with **Vercel CI/CD**.
 
 A full-stack styled React + TypeScript application built with Vite, featuring authentication, protected routes, animated charts, dark/light mode, dashboards, and developer management.
 
